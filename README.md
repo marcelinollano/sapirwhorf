@@ -127,3 +127,7 @@ Third, I am missing some languages that also interest me like Hindi, Korean and 
 After this I think I am mostly interested in learning a bit of Català, Chinese, French, Italian and Japanese. The best part is that now I know what content to look for in those languages.
 
 Finally somebody recommended the book ["The Unfolding of Language" by Guy Deutscher](http://www.amazon.es/The-Unfolding-Language-Guy-Deutscher-ebook/dp/B003D87PPY/ref=tmm_kin_title_0?ie=UTF8&qid=1400359356&sr=8-1), where he talks about how languages evolve. I am half way there and I think is a fascinating read if you are into this stuff, and if you read this far, you probably are.
+
+### Note
+
+I do not own the picture above, I searched for "Babel" in Google Images.If you own the rights of that image and want it removed just email me. Don't sue me, please.
