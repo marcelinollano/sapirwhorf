@@ -130,4 +130,4 @@ Finally somebody recommended the book ["The Unfolding of Language" by Guy Deutsc
 
 ### Note
 
-I do not own the picture above, I searched for "Babel" in Google Images.If you own the rights of that image and want it removed just email me. Don't sue me, please.
+I do not own the picture above. I searched for "Babel" on Google Images to find a cool picture. If you own the rights of that image and want it removed just email me. Don't sue me, please.
