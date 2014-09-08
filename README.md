@@ -2,7 +2,7 @@
 
 ![Babel](https://raw.githubusercontent.com/marcelinollano/languages/master/babel.png)
 
-## Introduction
+### Introduction
 
 All this started because I was reading the first chapters of Tim Ferris' The 4-Hour Chef, [available for free here](http://www.scribd.com/doc/123829789/The-4-Hour-Chef-PDF-First-70-pages-of-META-section). The book itself is about cooking but the first few chapters are about what he calls "meta-learning", in other words: being efficient in the way you learn. I really dig his "material kills method" idea, deconstruction and sequencing. What really hit me was when he explains how he learnt Japanese with yudo books. The gist of it is that as long as you hit a number of words what you really read does not matter much. What a great idea. One of my biggest problems learning foreign languages was paying attention to the boring text books. I only started to learn English when I discovered The Beatles.
 
@@ -14,37 +14,37 @@ I did not expect to have many answers, and I know what you are thinking: now you
 
 What I am going to do is share with you what the others said and add a little bit of commentary to spice things up. I will go language by language, alphabetical order, and end with some conclusions and resources. Ready? Here we go!
 
-## Arabic
+### Arabic
 
 I was surprised by this adjetive for arabic: charismatic. It makes a lot of sense to me. You can say lots of things related to religion, cultural traditions and society. Also, not that surprising, is easy to talk about family aspects while difficult to talk about technology. That might be why the occidental alphabet (a, b, c) is translated through phonetics into Arabic. There are dialects but "Fusha" Arabic is considered the "official" Arabic.
 
 Content that you may want to read in Arabic is quite probably The Coran,  history and literature. I would throw in also that people interested in linguistics would love Arabic for the way they construct words and also for its repercussion in other languages much like the case of Latin. I always though that Arabic writing would be super hard to learn but it is actually much simpler than Chinese for example, because there are patterns and regularity.
 
-## Asturian
+### Asturian
 
 Asturian is the language spoken in my home, Asturias, in the north of Spain. Authentic, direct are quite good adjetives for it. Very rich on adjetives to describe sizes for some reason, even more than Spanish. There is something really sweet about the way you express yourself in Asturian.
 
 Being disrupted, the language did not grow and most of the terms we use now are related to agriculture, food, nature, the seasons and its weather. Not much written word if we compare it with other languages. Honestly, if I were not from Asturias it would be really hard to find an entry point. Maybe if you are into tradition and world music you can try listening to "tonada".
 
-## Català
+### Català
 
 This one was a surprise to me. Adjetives to describe it are: honest, social, clear, delicate. So much so that people reported they changed to Spanish in order to swear. In politics you often see people being very explicit and clear about where they stand. Talking about feelings and nostalgia seem to be important for Català speakers, but also culture and the arts.
 
 There is a big tradition of artists in Català, specially painters, poets, artisans and architects. They are also into music and there are quite a few contemporary bands using Català, it is all very romantic and dreamy. Food and cooking is quite important too. So if you like the arts and value good taste (not only in food), Català is definitely one to try. I always wanted to live in Catalonia for a while, but now I am also tempted to give Català a serious try. There is plenty of interesting stuff to learn.
 
-## Chinese
+### Chinese
 
 Nobody responded with Chinese but since I am slowly getting into it I would give it a try. Chinese is a crazy wall between western culture and Asia. It is nuts. I read recently this article about [why Chinese is so hard](http://www.pinyin.info/readings/texts/moser.html). Being a little pessimistic and all the article is full of useful stuff to know before you start with Chinese. Go read it. The Chinese are very patient and dedicated people, I can only imagine how hard is for kids to learn the language. If you are not very patient or humble person Chinese is for you. I love that.
 
 Content in Chinese is really interesting. Essentially everything is interesting in Chinese because we do not know anything about Chinese history, literature, science or arts in the West. Nothing. Is so vast that you could imagine yourself learning something the size of Western culture but like an alternate universe or something. The problem that I have found is that very little of it connects with my sensibilities because is so different. It all looks weird, even what relates to western culture. The last thing that I am trying is kung-fu and vampire movies. They love those, even together. Reading Chinese is hard, but watching movies while you learn to write a few basic words is a decent entry point. That is all I know for now.
 
-## English
+### English
 
 Is there any doubt that you must know English today? English is concise, pragmatic, terse, precise. I find that thinking in English you are much more prone to take action and being accountable for it. Self-help books read cheesy in other languages while make perfect sense in English. I think that is also why they have so much guru around. The opposite of Spanish.
 
 Content is killer with English. Have you heard of the Internet? Tons and tons of stuff: movies, music, books. Everything that has to do with technology or science is translated into English almost immediately. Learning English and having access to all that information has changed my life forever. Not teaching a kid English today is just nonsense. If you do not know any other language than you mothers' tongue just start with English. And if you only know English I would say go for Spanish. Moving on.
 
-## Euskara
+### Euskara
 
 One of the adjetives for the Euskara is "ekintzailea", which means entrepreneur. That makes a lot of sense, for many years the Basque Country was, and still is to a great degree, the industrial heart of Spain. The people I know from Basque Country are very good starting projects and prone to action rather than just speaking. That is a great thing to have.
 
@@ -52,7 +52,7 @@ Seems to be a language better for oral transmission and poetic speech. I also fo
 
 Apart from that, being out of the Indo-European roots, must be really interesting for linguistics and alike also. I do not know if it would be enough for me to start learning it, though.
 
-## French
+### French
 
 This one is very close to what I am looking for. Some adjetives to describe it are: "intelectual", "rich", "melodramatic", "delicate" or "poetic". It is very good language for creative work and it shows on the vast amount of content available to consume. I think learning French could give you a new ways to think about politics, freedom, art and things like that.
 
@@ -60,13 +60,13 @@ But the killer part of French is the content you have as gateway. You have cinem
 
 I like a lot how opinionated French people are, and full of pride, but at the same time they are skeptical and inquiring, while while full of lyricism. That is the word: lyricism. I love that. I am seriously considering taking French for a spin.
 
-## Galego
+### Galego
 
 "Quente" means warm, is an adjetive that defines Galego, also a language from the north of Spain. Seems to be common to talk about nature, the home, and weirdly enough, death. That warm quality of Galego makes talking Spanish for those a bit rough.
 
 Other than learning tradition, if you live there or whatever I find it hard to learn. There are also some famous poets and writers using Galego. Which, if you think about it, makes sense. If you want to talk about something that is part of you, and this language is so close to you heart and origins, and is also warm, of course you will use it.
 
-## German
+### German
 
 Not surprisingly "logical", "precise", "complicated", "bureaucratic", "unemotional", "afraid". I have to admin, that last adjetive got me thinking. I do not know what to make of it. Otherwise, Germany has a lot of industrial power in Europe, they seem to be very well equipped for the task with German.
 
@@ -74,13 +74,13 @@ There is a vast amount of content to get you started. You have math books, liter
 
 But for me it would be the pleasure of reading about typography or Gestalt, or modern graphic design in the original language. Most of these works are translated into English by great translators, and English is cold enough to get the job done. I know I will miss details here and there, but I am no economist or lawyer so I think I will pass on German for now. If I were working on those sectors I would definitely learn it. If you are also a critic on art or culture in general I think German would make you a sharper thinker.
 
-## Icelandic
+### Icelandic
 
 Icelandic has lots of words to talk about the weather and feelings around it. For example "glugga veður" means "weather for window" or something like that. It is when there is a perfect day outside but you have to look at it by the window because it is too cold. The language strikes me as delicate and quiet too, like whispering.
 
 I think there are two sources of content if you want to dive into Icelandic. The first is their contemporary music: Sigur Rós, Björk, Múm, Belfast FM, etc etc. There are many bands and many different styles. The second one is the sagas. Sagas are stories in prose about the families of Iceland. They are surprisingly full of humor and weirdness. Reading the sagas maybe a good reason to learn Icelandic by itself.
 
-## Italian
+### Italian
 
 "Subtle", "detailed", "rich", "solar", "rhetorical", "plain". Who something could be rhetorical and plain maybe the key to understand Italian. Among all those adjetives I think "solar" is something I can understand and it shows in the italian people I have met in my life. I guess if you tend to be a downer learning Italian could help you in social settings.
 
@@ -88,7 +88,7 @@ As for content in Italian there is art, poems, classical music, cooking again, a
 
 If classic stuff is not for you no problem, you still have all the writings about futurism and the italian neorealism which is all amazing. There is plenty of science fiction literature too, I would also love to read Italo Calvino's "Cosmicomics" in Italian. Definitely on my list.
 
-## Japanese
+### Japanese
 
 I only got a short reply about Japanese: "Japanese is specific". I did some research of my own and I agree. Japanese is very German in that way but lighthearted too. For some reason people think Japanese is as hard as Chinese, but it is not. The confusion is rooted on the Kanji table of characters that were taken from Chinese. But then Japanese also have Hiragana and Katakana tables which are phonetic and easier to manage.
 
@@ -96,17 +96,17 @@ I think this is the key of Japanese. Japanese, while being very Japanese, it is 
 
 Now, content is also great! You have manga, anime, movies from Kurasawa, fashion magazines, anything about popular culture. Then arts and crafts: pottery, architecture, interior design and space, working with wood. Fun fact: the best books about wood joints are Japanese. The list goes on an on: amigurumi, origami,  drawing techniques... If you are a crafty person Japanese is the language you must learn, no doubt about it.
 
-## Polish
+### Polish
 
 "Creative", "rich", "idealistic", "not practical". Is a language prone to word games, it is also quite hard and unknown. It has lots of vowels (9) and sounds like whispering. Fun, because Icelandic it also sounds like whispering to me and also has lots of vowels. It is also impractical for new terminology and they rely on English and Latin for that.
 
 Answer does not say what content could we read about, but I think there are books from the romantic period and also science-fiction, theatre and poetry. I remembered watching some polish cinema too, sure it was not comedy. I wish I knew more about which content is great in Polish. Moving on!
 
-## Portuguese
+### Portuguese
 
 "Fun" and "acute". It is also grammatically complex, rich in swearwords. The reply is quite short and just mentions literature, but there is also folk music and cinema I guess. The new latin cinema movement that feeds from the italian neorealism could be a good entry point. More research is needed here.
 
-## Spanish
+### Spanish
 
 Ok, just one more left! Some people report Spanish is "rude", "noisy", "manly", "elaborate", "full of shades". Oh, full of shades is so true. Insults are big in Spanish too, that goes well with the noisy part. I would add "irony" is quite important, although not as good as the englishman. "Talking about desires and hypothesis" someone says. I did not think that was true at first, but we do have a complex verbal structure so why not. Spaniards we do wish for things a lot, I do not know.
 
@@ -114,7 +114,7 @@ Content to learn is rich in literature, music, cinema and arts in general. Proba
 
 I would put Spanish in the same group as English and Chinese today. They are all very different, but knowing those three languages you could go anywhere and being able to communicate. They are important languages. If I only knew English I would learn Spanish next.
 
-## Conclusions
+### Conclusions
 
 I know all of this is very unscientific but that will not stop me from extracting some conclusions.
 
